@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\bin\Debug\net8.0\AccountBankExceptionApp.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\bin\Debug\net8.0\AccountBankExceptionApp.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\bin\Debug\net8.0\AccountBankExceptionApp.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\bin\Debug\net8.0\AccountBankExceptionApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\bin\Debug\net8.0\AccountBankExceptionApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\refint\AccountBankExceptionApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\AccountBankExceptionApp.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\AccountBankExceptionApp\AccountBankExceptionApp\obj\Debug\net8.0\ref\AccountBankExceptionApp.dll

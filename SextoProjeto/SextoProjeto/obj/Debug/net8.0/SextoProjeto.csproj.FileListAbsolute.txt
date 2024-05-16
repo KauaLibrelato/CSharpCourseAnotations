@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\bin\Debug\net8.0\SextoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\refint\SextoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\SextoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SextoProjeto\SextoProjeto\obj\Debug\net8.0\ref\SextoProjeto.dll

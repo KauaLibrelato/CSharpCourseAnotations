@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\setimoprojeto\\setimoprojeto\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BAE402-DB6D-497C-8155-6924DF48A618}|SetimoProjeto\\SetimoProjeto.csproj|solutionrelative:setimoprojeto\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Circle.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:53:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:48:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\Enums\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:48:17.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Shape.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:47:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:18:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\Account.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:18:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "SetimoProjeto\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:18:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "SetimoProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\SetimoProjeto\\SetimoProjeto\\Program.cs",
+              "RelativeToolTip": "SetimoProjeto\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:15:23.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\bin\Debug\net8.0\ContaBancariaBasica.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\bin\Debug\net8.0\ContaBancariaBasica.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\bin\Debug\net8.0\ContaBancariaBasica.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\bin\Debug\net8.0\ContaBancariaBasica.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\bin\Debug\net8.0\ContaBancariaBasica.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\refint\ContaBancariaBasica.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ContaBancariaBasica.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\ContaBancariaBasica\ContaBancariaBasica\obj\Debug\net8.0\ref\ContaBancariaBasica.dll

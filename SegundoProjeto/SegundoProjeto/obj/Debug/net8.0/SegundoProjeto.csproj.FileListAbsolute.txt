@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll

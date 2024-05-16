@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\bin\Debug\net8.0\SetimoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\refint\SetimoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\SetimoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\SetimoProjeto\SetimoProjeto\obj\Debug\net8.0\ref\SetimoProjeto.dll

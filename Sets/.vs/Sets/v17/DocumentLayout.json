@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\sets\\sets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|solutionrelative:sets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\sets\\sets\\entities\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|solutionrelative:sets\\entities\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\sets\\sets\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|solutionrelative:sets\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\sets\\sets\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21729EB-3867-4386-81D3-B505C52219E5}|Sets\\Sets.csproj|solutionrelative:sets\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogRecord.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Entities\\LogRecord.cs",
+              "RelativeDocumentMoniker": "Sets\\Entities\\LogRecord.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Entities\\LogRecord.cs",
+              "RelativeToolTip": "Sets\\Entities\\LogRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:16:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Sets\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Entities\\Product.cs",
+              "RelativeToolTip": "Sets\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:56:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "Sets\\Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Entities\\Point.cs",
+              "RelativeToolTip": "Sets\\Entities\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:55:20.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Program.cs",
+              "RelativeDocumentMoniker": "Sets\\Program.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Sets\\Sets\\Program.cs",
+              "RelativeToolTip": "Sets\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:03:02.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

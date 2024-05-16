@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\bin\Debug\net8.0\QuintoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\bin\Debug\net8.0\QuintoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\bin\Debug\net8.0\QuintoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\bin\Debug\net8.0\QuintoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\bin\Debug\net8.0\QuintoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\refint\QuintoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\QuintoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuintoProjeto\QuintoProjeto\obj\Debug\net8.0\ref\QuintoProjeto.dll

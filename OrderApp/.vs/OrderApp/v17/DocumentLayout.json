@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\orderapp\\orderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\orderapp\\orderapp\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\orderapp\\orderapp\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\orderapp\\orderapp\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\orderapp\\orderapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\orderapp\\orderapp\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1227BD67-296C-438E-A927-9EA506F11398}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderApp\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:31:20.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrderApp\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:30:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Client.cs",
+              "RelativeToolTip": "OrderApp\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:29:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Product.cs",
+              "RelativeToolTip": "OrderApp\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:29:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrderApp\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:28:26.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Program.cs",
+              "RelativeDocumentMoniker": "OrderApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\OrderApp\\OrderApp\\Program.cs",
+              "RelativeToolTip": "OrderApp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:54:12.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

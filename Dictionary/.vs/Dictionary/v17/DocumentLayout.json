@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FEF03-0E8C-4DE9-B968-D64E71641A6B}|Dictionary\\Dictionary.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\dictionary\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FEF03-0E8C-4DE9-B968-D64E71641A6B}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Dictionary\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\Dictionary\\Dictionary\\Program.cs",
+              "RelativeToolTip": "Dictionary\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:33:42.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

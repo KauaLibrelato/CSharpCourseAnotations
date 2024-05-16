@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\bin\Debug\net8.0\WorkerApp.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\bin\Debug\net8.0\WorkerApp.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\bin\Debug\net8.0\WorkerApp.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\bin\Debug\net8.0\WorkerApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\bin\Debug\net8.0\WorkerApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\refint\WorkerApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\WorkerApp.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\WorkerApp\WorkerApp\obj\Debug\net8.0\ref\WorkerApp.dll

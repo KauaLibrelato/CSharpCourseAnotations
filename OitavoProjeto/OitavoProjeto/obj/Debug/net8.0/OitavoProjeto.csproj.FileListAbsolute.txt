@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\bin\Debug\net8.0\OitavoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\refint\OitavoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\OitavoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OitavoProjeto\OitavoProjeto\obj\Debug\net8.0\ref\OitavoProjeto.dll

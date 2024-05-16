@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\bin\Debug\net8.0\TaxpayersApp.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\bin\Debug\net8.0\TaxpayersApp.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\bin\Debug\net8.0\TaxpayersApp.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\bin\Debug\net8.0\TaxpayersApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\bin\Debug\net8.0\TaxpayersApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\refint\TaxpayersApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\TaxpayersApp.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\TaxpayersApp\TaxpayersApp\obj\Debug\net8.0\ref\TaxpayersApp.dll

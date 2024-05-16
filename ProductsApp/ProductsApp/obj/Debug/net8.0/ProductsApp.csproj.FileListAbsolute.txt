@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\bin\Debug\net8.0\ProductsApp.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\bin\Debug\net8.0\ProductsApp.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\bin\Debug\net8.0\ProductsApp.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\bin\Debug\net8.0\ProductsApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\bin\Debug\net8.0\ProductsApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\refint\ProductsApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ProductsApp.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\ProductsApp\ProductsApp\obj\Debug\net8.0\ref\ProductsApp.dll

@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\refint\OrderApp.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\OrderApp\OrderApp\obj\Debug\net8.0\ref\OrderApp.dll

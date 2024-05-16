@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\bin\Debug\net8.0\Sets.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\bin\Debug\net8.0\Sets.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\bin\Debug\net8.0\Sets.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\bin\Debug\net8.0\Sets.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\bin\Debug\net8.0\Sets.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\refint\Sets.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\Sets.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Sets\Sets\obj\Debug\net8.0\ref\Sets.dll

@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\bin\Debug\net8.0\FunctionalProgram.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\bin\Debug\net8.0\FunctionalProgram.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\bin\Debug\net8.0\FunctionalProgram.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\bin\Debug\net8.0\FunctionalProgram.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\bin\Debug\net8.0\FunctionalProgram.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\refint\FunctionalProgram.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\FunctionalProgram.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\FunctionalProgram\FunctionalProgram\obj\Debug\net8.0\ref\FunctionalProgram.dll

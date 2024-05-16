@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\bin\Debug\net8.0\NonoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\bin\Debug\net8.0\NonoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\bin\Debug\net8.0\NonoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\bin\Debug\net8.0\NonoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\bin\Debug\net8.0\NonoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\refint\NonoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\NonoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\NonoProjeto\NonoProjeto\obj\Debug\net8.0\ref\NonoProjeto.dll

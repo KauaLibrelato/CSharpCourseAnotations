@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\refint\QuartoProjeto.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\ref\QuartoProjeto.dll

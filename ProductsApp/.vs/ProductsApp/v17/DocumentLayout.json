@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\productsapp\\productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\productsapp\\productsapp\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\productsapp\\productsapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|c:\\users\\kaua.librelato\\documents\\pessoais\\c#\\c\u00F3digos\\productsapp\\productsapp\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC4789B-6E9B-43EC-BDCC-28E6753029BD}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ProductsApp\\Entities\\ImportedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:05:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ProductsApp\\Entities\\UsedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:04:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductsApp\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:03:50.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kaua.librelato\\Documents\\Pessoais\\C#\\C\u00F3digos\\ProductsApp\\ProductsApp\\Program.cs",
+              "RelativeToolTip": "ProductsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:03:01.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

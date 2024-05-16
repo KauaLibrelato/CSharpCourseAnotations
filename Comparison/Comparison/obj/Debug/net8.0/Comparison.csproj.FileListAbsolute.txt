@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\bin\Debug\net8.0\Comparison.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\bin\Debug\net8.0\Comparison.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\bin\Debug\net8.0\Comparison.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\bin\Debug\net8.0\Comparison.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\bin\Debug\net8.0\Comparison.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\refint\Comparison.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\Comparison.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\Comparison\Comparison\obj\Debug\net8.0\ref\Comparison.dll

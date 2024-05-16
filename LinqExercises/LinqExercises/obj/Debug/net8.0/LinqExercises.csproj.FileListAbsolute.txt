@@ -1,0 +1,15 @@
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\bin\Debug\net8.0\LinqExercises.exe
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\bin\Debug\net8.0\LinqExercises.deps.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\bin\Debug\net8.0\LinqExercises.runtimeconfig.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\bin\Debug\net8.0\LinqExercises.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\bin\Debug\net8.0\LinqExercises.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.AssemblyInfoInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.AssemblyInfo.cs
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.csproj.CoreCompileInputs.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.sourcelink.json
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\refint\LinqExercises.dll
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.pdb
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\LinqExercises.genruntimeconfig.cache
+C:\Users\kaua.librelato\Documents\Pessoais\C#\Códigos\LinqExercises\LinqExercises\obj\Debug\net8.0\ref\LinqExercises.dll
